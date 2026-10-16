@@ -1,16 +1,39 @@
-## Hi there 👋
+<sub><code>CYBERSECURITY · VAPT · WEB APPLICATION SECURITY</code></sub>
 
-<!--
-**GreyNodlabs/GreyNodlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GreyNod Labs
 
-Here are some ideas to get you started:
+### Cybersecurity and digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GreyNod Labs works on cybersecurity and digital solutions, including web development and e-commerce projects. We are based in Kozhikode, Kerala, India.
+
+**[Website&nbsp;→](https://greynodlabs.com/)** &nbsp;·&nbsp; **[Contact&nbsp;→](mailto:greynodlabs@gmail.com)**
+
+---
+
+### `// WHAT WE DO`
+
+<table>
+  <tr>
+    <td><code>01</code>&nbsp;Cybersecurity</td>
+    <td><code>02</code>&nbsp;VAPT</td>
+    <td><code>03</code>&nbsp;Web&nbsp;Application&nbsp;Security</td>
+  </tr>
+  <tr>
+    <td><code>04</code>&nbsp;Web&nbsp;Development</td>
+    <td colspan="2"><code>05</code>&nbsp;E-commerce&nbsp;Projects</td>
+  </tr>
+</table>
+
+---
+
+### `// CONNECT WITH US`
+
+**[Website](https://greynodlabs.com/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/greynodlabs)** &nbsp;·&nbsp; **[Instagram](https://www.instagram.com/greynod.labs/)**  &nbsp;·&nbsp; **[Email](mailto:greynodlabs@gmail.com)**
+
+---
+
+<div align="center">
+
+<sub><i>Building with purpose. Learning by doing.</i> · <a href="https://greynodlabs.com/">greynodlabs.com</a></sub>
+
+</div>
